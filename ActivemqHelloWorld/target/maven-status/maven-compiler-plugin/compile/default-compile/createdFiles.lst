@@ -1,0 +1,3 @@
+com\esp\ActivemqHelloWorld\App$ActiveMQHelloWorldProducer.class
+com\esp\ActivemqHelloWorld\App$HelloWorldConsumer.class
+com\esp\ActivemqHelloWorld\App.class
